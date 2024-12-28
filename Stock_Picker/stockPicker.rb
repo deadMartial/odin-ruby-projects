@@ -10,8 +10,6 @@ def stock_picker(a)
       end
     end
   end
-  puts int
-  p arr
   arr
 end
 
@@ -23,4 +21,4 @@ def max(a,b)
   end
 end
 
-stock_picker([17,3,6,9,15,8,6,1,10]) 
+p stock_picker([17,3,6,9,15,8,6,1,10]) 
